@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/com.sun.net.ssl.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/HTTPClient-0.3-3.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/javacsv-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/org.apache.tika.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-3.11-beta3-20141111.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-examples-3.11-beta3-20141111.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-excelant-3.11-beta3-20141111.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-ooxml-3.11-beta3-20141111.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-ooxml-schemas-3.11-beta3-20141111.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/poi-scratchpad-3.11-beta3-20141111.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/juan/gnoma-dev/manual-alfresco/LibreriaJava/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
