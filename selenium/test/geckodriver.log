@@ -1,0 +1,265 @@
+1536158013071	geckodriver	INFO	geckodriver 0.21.0
+1536158013081	geckodriver	INFO	Listening on 127.0.0.1:39635
+1536158014167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8cWjBxmbM4Ss"
+1536158019048	Marionette	INFO	Listening on port 42621
+1536158019132	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536158073603	geckodriver	INFO	geckodriver 0.21.0
+1536158073612	geckodriver	INFO	Listening on 127.0.0.1:33231
+1536158074616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RvR8UwqFSGO9"
+1536158078863	Marionette	INFO	Listening on port 45781
+1536158078929	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9422, Gecko_IOThread] WARNING: pipe error: Tubería rota: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 156: TypeError: style is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+JavaScript error: https://cdn.254a.com/images/hosted/iberia/201701/v8/js/narwhal.js, line 129: TypeError: testTag.parentNode is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 9512, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536158277875	geckodriver	INFO	geckodriver 0.21.0
+1536158277883	geckodriver	INFO	Listening on 127.0.0.1:50513
+1536158278888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.emgfzGZ0JcEP"
+1536158283207	Marionette	INFO	Listening on port 33723
+1536158283317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536158921095	geckodriver	INFO	geckodriver 0.21.0
+1536158921107	geckodriver	INFO	Listening on 127.0.0.1:33691
+1536158922110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7QylgmhKBnXb"
+1536158926371	Marionette	INFO	Listening on port 37949
+1536158926426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536159095150	geckodriver	INFO	geckodriver 0.21.0
+1536159095162	geckodriver	INFO	Listening on 127.0.0.1:60711
+1536159096163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4ydjQBGPmqbE"
+1536159100262	Marionette	INFO	Listening on port 44541
+1536159100283	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536159442895	geckodriver	INFO	geckodriver 0.21.0
+1536159442906	geckodriver	INFO	Listening on 127.0.0.1:57657
+1536159443908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IDC3UtJH17Lj"
+1536159448155	Marionette	INFO	Listening on port 40789
+1536159448227	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536164733437	geckodriver	INFO	geckodriver 0.21.0
+1536164733444	geckodriver	INFO	Listening on 127.0.0.1:59101
+1536164734549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cqgd8CRYePBI"
+1536164738835	Marionette	INFO	Listening on port 46805
+1536164738888	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16925, Gecko_IOThread] WARNING: pipe error (62): Conexión reinicializada por la máquina remota: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
